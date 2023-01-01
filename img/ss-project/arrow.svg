@@ -1,0 +1,16 @@
+<svg width="35" height="72" viewBox="0 0 35 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_522_244" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="35" height="72">
+<rect x="35" y="72" width="35" height="72" transform="rotate(180 35 72)" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0_522_244)">
+<circle cx="-0.500003" cy="35.5" r="35.5" transform="rotate(180 -0.500003 35.5)" fill="#B1A489"/>
+</g>
+<g clip-path="url(#clip0_522_244)">
+<path d="M8.99969 36.7024L17.0099 44.7124C17.1952 44.8979 17.4425 45 17.7062 45C17.9699 45 18.2172 44.8979 18.4025 44.7124L18.9924 44.1227C19.3762 43.7384 19.3762 43.1138 18.9924 42.7301L12.266 36.0037L18.9999 29.2699C19.1851 29.0845 19.2874 28.8373 19.2874 28.5737C19.2874 28.3099 19.1851 28.0627 18.9999 27.8772L18.41 27.2876C18.2245 27.1021 17.9774 27 17.7137 27C17.45 27 17.2026 27.1021 17.0174 27.2876L8.99969 35.305C8.81399 35.491 8.71199 35.7393 8.71257 36.0033C8.71199 36.2683 8.81399 36.5165 8.99969 36.7024Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_522_244">
+<rect width="18" height="18" fill="white" transform="translate(23 45) rotate(180)"/>
+</clipPath>
+</defs>
+</svg>
